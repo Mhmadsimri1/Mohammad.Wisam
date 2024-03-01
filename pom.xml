@@ -4,11 +4,11 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>Traingle_Casification_class_1</groupId>
-  <artifactId>Traingle_Casification_class_1</artifactId>
+  <groupId>Root-classificatin</groupId>
+  <artifactId>Root-classificatin</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>Traingle_Casification_class_1</name>
+  <name>Root-classificatin</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -25,6 +25,8 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
+    
+    
   </dependencies>
 
   <build>
